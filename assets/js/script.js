@@ -23,5 +23,3 @@ function getInputFromTextBox() {
     let show= document.getElementById("userInputT")[0].innerHTML= input;
     return show;
 }
-let here= getInputFromTextBox();
-console.log(here);
