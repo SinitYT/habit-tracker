@@ -1,0 +1,47 @@
+table{
+    width: 100%;
+}
+table,th {
+    border: 1px solid black;
+}
+
+td{
+    border: 3px solid green;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*
+div {
+    display: inline-block;
+    width: 25%;
+}
+.habit-list{
+    float: left;
+}
+.goals {
+    float: center;
+}
+.week-days{
+    float:right;
+}
+li {
+    text-decoration: none;
+}
+.week-days > li {
+    display: inline-table;
+    width:5%;
+}
+*/
